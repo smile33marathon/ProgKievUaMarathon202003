@@ -1,11 +1,13 @@
 package ua.kiev.prog02.ProgKievUaMarathon202003;
 
-public class Mar_001145_L03P01_02_Loops_doWhile {
+public class Mar_001145_L03P01_01_LoopsWhile {
     public static void main(String[] args) {
         int n = 10;
-        do {
+
+        while (n > 0) {
             System.out.println(n);
-            n -= 1;
-        } while (n > 0);
+            n = n - 1;
+        }
+        System.out.println("end");
     }
 }
