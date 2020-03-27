@@ -26,3 +26,4 @@ public class Mar_001145_L02_task04_readNumMax_02 {
         System.out.println(num1);
     }
 }
+
