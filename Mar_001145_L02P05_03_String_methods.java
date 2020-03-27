@@ -2,7 +2,7 @@ package ua.kiev.prog02.ProgKievUaMarathon202003;
 
 import java.util.Scanner;
 
-public class mar_001145_L02P05_03_String_methods {
+public class Mar_001145_L02P05_03_String_methods {
     public static void main(String[] args) {
         String s;
         var sc = new Scanner(System.in);

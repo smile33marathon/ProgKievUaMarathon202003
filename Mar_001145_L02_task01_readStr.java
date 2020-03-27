@@ -2,7 +2,7 @@ package ua.kiev.prog02.ProgKievUaMarathon202003;
 
 import java.util.Scanner;
 
-public class mar_001145_L02_task01_readStr {
+public class Mar_001145_L02_task01_readStr {
     public static void main(String[] args) {
         var sc = new Scanner(System.in);
         String s1 = sc.nextLine();

@@ -2,7 +2,7 @@ package ua.kiev.prog02.ProgKievUaMarathon202003;
 
 import java.util.Scanner;
 
-public class mar_001145_L02P04_05_if_elseif {
+public class Mar_001145_L02P04_05_if_elseif {
     public static void main(String[] args) {
         var sc = new Scanner(System.in);
 

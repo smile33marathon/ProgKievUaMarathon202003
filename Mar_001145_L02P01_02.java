@@ -1,6 +1,6 @@
 package ua.kiev.prog02.ProgKievUaMarathon202003;
 
-public class mar_001145_L02P01_02 {
+public class Mar_001145_L02P01_02 {
     public static void main(String[] args) {
         int x = 1;
         byte b = 5;

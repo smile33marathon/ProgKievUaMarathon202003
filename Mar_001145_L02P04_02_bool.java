@@ -1,6 +1,6 @@
 package ua.kiev.prog02.ProgKievUaMarathon202003;
 
-public class mar_001145_L02P04_02_bool {
+public class Mar_001145_L02P04_02_bool {
     public static void main(String[] args) {
         boolean b = true;
         boolean c = false;
