@@ -8,7 +8,7 @@ public class mar001145L03Task03Calc02 {
         while (true) {
             System.out.println("");
             System.out.println("Input math operation [+], [-], [*], [/] or [return] to exit: ");
-//            System.out.println("op");
+//          System.out.println("op");
             String op = sc.next();
             System.out.print("Input \"a\": ");
             int a = sc.nextInt();
