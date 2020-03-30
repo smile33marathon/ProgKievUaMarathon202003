@@ -2,7 +2,7 @@ package ua.kiev.prog02.ProgKievUaMarathon202003;
 
 /*Вывести на консоль числа от 1 до 50 всеми возможными циклами.*/
 
-public class mar001145L03Task01Loops {
+public class Mar001145L03Task01Loops {
     public static void main(String[] args) {
         for (int i = 1; i <= 50; i++) {
             System.out.println("[for]: " + i);
